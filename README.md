@@ -18,7 +18,6 @@ Welcome to my profile repository. This collection showcases applied statistical 
 * **'EPS703Final Exam.R'**: Script focusing on multivariate analysis, regression modeling, and statistical inference.
    
 ### Visualization & Data Assets
-* **'RESULTS BAR GRAPHS.xlsx'**: Excel workbook containing customized summary charts, statistical visual output, and formatted data tables.
 * **Experimental Datasets('.csv')**:
  * **'AttractAvgs.csv'**: Compiled average facial attractiveness evaluation metrics across subject cohorts.
  * **'FaceIDAvgs.csv'**: Performance tracking metrics for face recognition and identification tasks.
