@@ -11,11 +11,11 @@ Welcome to my profile repository. This collection showcases applied statistical 
 ## Repository Structure & File Breakdown:
 
 ### Python Data Science & Modeling
-* **'EPS721Final_O'Brien.py'**:End-to-end data pipeline implemented in Python, covering exploratory data analysis (EDA), data cleaning, statistical modeling, and data visualization.
+* **'EPS721FINAL_O'Brien.py'**:End-to-end data pipeline implemented in Python, covering exploratory data analysis (EDA), data cleaning, statistical modeling, and data visualization.
 
 ### Applied Statistical Analyses(R)
 * **'EPS702Final Exam.R'**: Script performing foundational statistical testing, hypothesis validation, and quantitative analysis.
-* **'EPS703Final Exam.R'**: Script focusing on multivariate analysis, regression modeling, and statistical inference.
+* **'EPS703 Final Exam.R'**: Script focusing on multivariate analysis, regression modeling, and statistical inference.
    
 ### Visualization & Data Assets
 * **Experimental Datasets('.csv')**:
